@@ -1,0 +1,33 @@
+body{
+  font-family:"Comic Sans MS", "Arial";
+  text-align:center;
+  background-color:#171c24;
+  color: white;
+}
+h1{
+  color: yellow;
+}
+.masukan{
+  font-family:"Comic Sans MS","Arial";
+  float:none;
+  height:20px;
+  width:200px;
+  border:1px solid #D6E0E0;
+  border-radius:3px;
+  background:#E8FFFF;
+  padding:4px;
+  color:#929292
+}
+.tbl{
+  border-radius:5px;
+  min-width:60px;
+  border:0px;
+  background:#E34C00;
+  color:#FFFFFF;
+  margin:5px 10px auto 20px;
+  padding:5px;
+  font-weight:bold;
+}
+.tbl:hover{
+  background:#FCB30E;
+}
